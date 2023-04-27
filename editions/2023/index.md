@@ -1,6 +1,6 @@
 # HuFaMo 2023
 
-Co-located with MODELS 2023: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Västerås, Sweden, Octobre 2023
+Co-located with [MODELS 2023: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Västerås, Sweden, Octobre 2023](https://conf.researchr.org/home/models-2023)
 
 ## Overview
 
