@@ -18,7 +18,7 @@ With the next editions, we aim to strengthen this community by maintaining the p
 # Past editions
 
 - [HuFaMo 2022: co-located with MODELS 2022](https://research.webs.upv.es/hufamo22/)
-- [HuFaMo 2021: co-located with MODELS 2021]([https://www.monash.edu/it/humanise-lab/hufamo21](https://web.archive.org/web/20220120013739/https://www.monash.edu/it/humanise-lab/hufamo21))
+- [HuFaMo 2021: co-located with MODELS 2021](https://web.archive.org/web/20220120013739/https://www.monash.edu/it/humanise-lab/hufamo21)
 - [HuFaMo 2019: co-located with MODELS 2019](https://hufamo.univ-lille.fr)
 - [HuFaMo 2018: co-located with MODELS 2018](https://hufamo.univ-lille.fr/hufamo2018/index.html)
 - [HuFaMo 2016: co-located with MODELS 2016](https://web.archive.org/web/20220814063357/http://hufamo.compute.dtu.dk/)
