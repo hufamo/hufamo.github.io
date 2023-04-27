@@ -15,10 +15,20 @@ With the next editions, we aim to strengthen this community by maintaining the p
 
 ## Past editions
 
-- 2022: https://research.webs.upv.es/hufamo22/
-- 2021: https://www.monash.edu/it/humanise-lab/hufamo21
-- 2019: https://hufamo.univ-lille.fr/
-- 2018: https://hufamo.univ-lille.fr/hufamo2018/index.html
-- 2017: https://hufamo.compute.dtu.dk/
-- 2016: https://www.pst.ifi.lmu.de/~stoerrle/events/hufamo16/index.html
+- 2022: [co-located with MODELS 2022](https://research.webs.upv.es/hufamo22/)
+- 2021: [co-located with MODELS 2021](https://www.monash.edu/it/humanise-lab/hufamo21)
+- 2019: [co-located with MODELS 2019](https://hufamo.univ-lille.fr)
+- 2018: [co-located with MODELS 2018](https://hufamo.univ-lille.fr/hufamo2018/index.html)
+- 2017: [co-located with MODELS 2017](https://hufamo.compute.dtu.dk)
+- 2016: [co-located with MODELS 2016](https://www.pst.ifi.lmu.de/~stoerrle/events/hufamo16/index.html)
 
+## Steering Committee
+
+- Silvia Abrahão, Universitat Politècnica de València (Spain)
+- Miguel Goulão, Universidade Nova de Lisboa (Portugal)
+- John Grundy, HumaniSE Lab, Monash University (Australia)
+- Rodi Jolak, Volvo Cars Corporation (Sweden)
+- Hourieh Khalajzadeh, HumaniSE Lab, Monash University (Australia)
+- Xavier Le Pallec, Ansys (France)
+- Emmanuel Renaux, Institut Mines-Telecom, Lille-Douai (France)
+- Bran Selic, HumaniSE Lab, Monash University (Australia)
