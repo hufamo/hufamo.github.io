@@ -33,7 +33,7 @@ In line with our topic and objectives, we address four audiences. First, we welc
 
 ## How to submit
 
-Papers should be submitted in PDF format through EasyChair (https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
+Papers should be submitted in PDF format through EasyChair [https://easychair.org/my/conference?conf=hufamo2023](https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents  work that is not yet fully validated, the paper title must have one of the phrases 'Proposal', 'Preliminary results',  'Work in progress' or 'Position paper'.
 
