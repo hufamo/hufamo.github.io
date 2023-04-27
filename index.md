@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # HuFaMo: International Workshop on Human Factors in Modeling / Modeling of Human Factors
 
 ## Description
