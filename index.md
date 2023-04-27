@@ -17,12 +17,12 @@ With the next editions, we aim to strengthen this community by maintaining the p
 
 # Past editions
 
-- 2022: [co-located with MODELS 2022](https://research.webs.upv.es/hufamo22/)
-- 2021: [co-located with MODELS 2021](https://www.monash.edu/it/humanise-lab/hufamo21)
-- 2019: [co-located with MODELS 2019](https://hufamo.univ-lille.fr)
-- 2018: [co-located with MODELS 2018](https://hufamo.univ-lille.fr/hufamo2018/index.html)
-- 2017: [co-located with MODELS 2017](https://hufamo.compute.dtu.dk)
-- 2016: [co-located with MODELS 2016](https://www.pst.ifi.lmu.de/~stoerrle/events/hufamo16/index.html)
+- [HuFaMo 2022: co-located with MODELS 2022](https://research.webs.upv.es/hufamo22/)
+- [HuFaMo 2021: co-located with MODELS 2021]([https://www.monash.edu/it/humanise-lab/hufamo21](https://web.archive.org/web/20220120013739/https://www.monash.edu/it/humanise-lab/hufamo21))
+- [HuFaMo 2019: co-located with MODELS 2019](https://hufamo.univ-lille.fr)
+- [HuFaMo 2018: co-located with MODELS 2018](https://hufamo.univ-lille.fr/hufamo2018/index.html)
+- [HuFaMo 2017: co-located with MODELS 2017](https://hufamo.compute.dtu.dk)
+- [HuFaMo 2016: co-located with MODELS 2016](https://www.pst.ifi.lmu.de/~stoerrle/events/hufamo16/index.html)
 
 # Steering Committee
 
