@@ -1,6 +1,6 @@
 # HuFaMo 2023
 
-Co-located with [MODELS 2023: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Västerås, Sweden, Octobre 2023](https://conf.researchr.org/home/models-2023)
+Co-located with [MODELS 2023: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Västerås, Sweden, October 1-3, 2023](https://conf.researchr.org/home/models-2023)
 
 ## Overview
 
@@ -62,10 +62,11 @@ Papers will be evaluated mainly from their practical take-away and the potential
 
 ## Important Dates
 
-- Abstract submission deadline: July 13, 2023
-- Paper submission deadline: July 20, 2023
+- **Abstract submission deadline: July 13, 2023**
+- **Paper submission deadline: July 20, 2023**
 - Notification of acceptance: August 18, 2023
 - Camera-ready deadline: August 25, 2023
+- **Workshop: October 1-3, 2023**
 
 
 ## Dissemination
