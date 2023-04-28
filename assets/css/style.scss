@@ -21,3 +21,11 @@ footer {
 #header_wrap .inner {
 	padding: 10px;
 }
+
+#logo {
+  position: absolute;
+  z-index: 10;
+  top: 40px;
+  right: 10%;
+  background: url('../pics/logo.png') no-repeat 0% 50%;
+}
