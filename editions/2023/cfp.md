@@ -21,7 +21,7 @@ Relevant topics to modeling and design of human factors include:
 
 New theories and design principles about human factors modeling and design;
 – New methods and techniques to incorporate human factors into requirements, design models, or MDE tools to improve their usability;
-– Modeling human factors and suppor ting human-centric issues in model-driven software engineering;
+– Modeling human factors and supporting human-centric issues in model-driven software engineering;
 – Modeling the human aspects of stakeholders and end-users of the software, such as age, gender, personality, emotions, disability and preferences;
 – Industrial experience reports in modeling human factors in software development;
 
