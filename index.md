@@ -12,7 +12,7 @@ Thanks to the previous editions of HuFaMo, a community of researchers and practi
 With the next editions, we aim to strengthen this community by maintaining the principle of sharing experiences through proposals and reports on human factors in modeling and design as well as modeling and design of human factors. HuFaMo invites reports of completed research, work in progress with promising early results, and proposals of study designs.
 
 
-Follow us on Twitter: https://twitter.com/HufamoWorkshop
+Follow us on [Twitter](https://twitter.com/HufamoWorkshop)
 
 
 # Next edition
