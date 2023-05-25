@@ -2,6 +2,8 @@
 
 Co-located with [MODELS 2023: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Västerås, Sweden, October 1-3, 2023](https://conf.researchr.org/home/models-2023)
 
+Follow us on Twitter: https://twitter.com/HufamoWorkshop
+
 ## Overview
 
 Software users are diverse, with differing personalities, technical proficiency, emotional reactions to software systems, socio-economic status, gender, age, culture, language, and preferences. Capturing and supporting human factors at requirements or design stages are essential for designing and modeling human-centric software systems that fit the end-users of the systems. Moreover, since modeling is an intrinsically human endeavor, many of the questions related to modeling can only be answered by empirical studies. The HuFaMo workshop series is a venue for early-stage empirical research involving human factors in modeling and design. Our goal is to improve the state of science and professionalism in empirical research in the MDE community. We perceive MODELS to be a high-quality venue that does not yet sufficiently reflect either **modeling and design of human factors** as well as the **human factor in modeling and design**.
