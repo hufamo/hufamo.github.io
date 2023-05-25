@@ -33,6 +33,8 @@ In line with our topic and objectives, we address four audiences. First, we welc
 
 ## How to submit
 
+The official call for paper is here: [CFP]({% link editions/2023/cfp.md %})
+
 Papers should be submitted in PDF format through EasyChair [https://easychair.org/my/conference?conf=hufamo2023](https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents  work that is not yet fully validated, the paper title must have one of the phrases 'Proposal', 'Preliminary results',  'Work in progress' or 'Position paper'.
@@ -50,7 +52,7 @@ The following are some guidelines for particular types of content:
 Accepted submissions will be discussed in the workshop. We particularly encourage researchers that need to design a study but lack experience in this field to come forward and present study designs so these may be discussed and improved, leading to better quality research.
 
 Submissions must adhere to the [IEEE formatting instructions](https://www.ieee.org/conferences/publishing/templates.html).
-Full papers must be no more than 10 pages in length, including references, appendices, and figures, while Position papers must have a maximum of 5 pages. 
+Full papers must be no more than 10 pages in length, including references, appendices, and figures, while Position papers must have a maximum of 5 pages.
 
 Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review. Accepted papers will be published in the MODELS conference companion proceedings published by IEEE. Please contact the workshop organizers if you have any questions.
 
@@ -71,7 +73,7 @@ Papers will be evaluated mainly from their practical take-away and the potential
 
 ## Dissemination
 
-Accepted papers will be published in the MODELS conference companion proceedings published by IEEE. 
+Accepted papers will be published in the MODELS conference companion proceedings published by IEEE.
 
  Authors are encouraged to provide supplementary data of their respective research (e.g., raw data, transcripts, video footage of study sessions, R scripts), to be made permanently publicly available in the workshop’s repository, built on ZENODO. Although providing such extra material will not be mandatory, it is strongly encouraged, as a good practice in empirical studies.
 
