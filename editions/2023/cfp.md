@@ -1,9 +1,11 @@
 =================================================================================================
+
 CALL FOR PAPERS
 7th International Workshop on Human Factors in Modeling / Modeling of Human Factors (HuFaMo 2023)
 co-located with the MODELS 2023 conference
 1-3 October 2023 (Västerås, Sweden)
 https://hufamo.github.io/editions/2023/
+
 ================================================================================================
 
 Studying human factors and experiences in modeling helps improve knowledge of the modeling process, adoption of modeling, optimization of system outcomes, and user well-being. Incorporating human aspects into the early stages of software engineering processes is essential to better support the stakeholders, including end-users of the software. The HuFaMo workshop at MODELS conference provides an opportunity for the modeling community to further advance the state of the art and practice in two areas of modeling and design of human factors and human factors in modeling and design.
@@ -38,10 +40,10 @@ MODELS Workshops: October 1-3, 2023 (the exact date for HuFaMo is to be defined)
 
 SUBMISSION PROCESS
 
-Papers should be submitted in PDF format through EasyChair (https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person. 
+Papers should be submitted in PDF format through EasyChair (https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
 
 
-SUBMISSION GUIDELINES 
+SUBMISSION GUIDELINES
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents work that is not yet fully validated, the paper title must have one of the phrases ’Proposal’, ’Preliminary results’, ’Work in progress’ or ’Position paper’. The following are some guidelines for particular types of content:
 
