@@ -81,6 +81,26 @@ ORGANIZATION COMMITTEE
 - Philippe Palanque, Université Toulouse III (France)
 - Bran Selic, Monash University (Australia)
 
+PROGRAM COMMITTEE
+
+- Ankica Barisic, Université Côte d'Azur, France
+- Matthew Bolton, University of Virginia, USA
+- Michel Chaudron, Eindhoven University of Technology, Netherlands
+- Miguel Goulão, Universidade Nova de Lisboa, Portugal
+- Emilio Insfran, Universitat Politècnica de València, Spain
+- Rodi Jolak, Chalmers University of Technology, Sweden
+- Tanjila Kanij, Monash University, Australia
+- Grischa Liebel, Reykjavik University, Island
+- Kris Luyten, Hasselt University, Belgium
+- Juha-Pekka Tolvanen, MetaCase, Finland
+- Mahdi Manesh, Porsche Digital GmbH, Germany
+- Judith Michael, RWTH Aachen University, Germany
+- Fabio Paterno, CNR-ISTI, Italy
+- Eugene Syriani, University of Montreal, Canada
+- Matthias Tichy, Ulm University, Germany
+- Jean Vanderdonckt, Université catholique de Louvain, Belgium
+- Marco Winckler, Université Côte d'Azur, France
+- Uwe Zdun, University of Vienna, Austria
 
 CONTACT
 
