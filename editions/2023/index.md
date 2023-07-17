@@ -66,7 +66,9 @@ Papers will be evaluated mainly from their practical take-away and the potential
 
 ## Important Dates
 
-- **Paper submission deadline: July 17, 2023**
+~~- **Paper submission deadline: July 17, 2023**~~
+- **Paper abstract submission deadline: July 17, 2023, AoE**
+- **Full Paper submission deadline: July 24, 2023, AoE**
 - Notification of acceptance: August 15, 2023
 - Camera-ready deadline: August 22, 2023
 - **Workshop: October 1-3, 2023**
