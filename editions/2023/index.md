@@ -33,6 +33,56 @@ Examples of **human factor in modeling and design** might consider the usability
 In line with our topic and objectives, we address four audiences. First, we welcome researchers and practitioners active in the field of modeling and design of human factors, and provide them with a venue for disseminating their research results and keeping up to date with the latest developments in the field. Second, we propose the same type of venue for researchers and practitioners in the field of human factors in modeling and design. Third, we address researchers who want to start conducting empirical research. In the workshop, they will find a constructive environment where they can present their study design or theoretical framework under development. Four, we address practitioners that develop modeling tools to share their feedback and issues while considering human factors in their tools.
 
 
+
+## Program
+
+8:30 - 10:00     Opening, Keynote and Session 1
+
+
+8:30 - 8:40    Day opening and Welcome
+
+Chairs: Arnaud Blouin, Silvia Abrahao, Phillipe Palanque and Bran Selic
+
+
+8:40- 9:40      Keynote: Human Factors and Selling Modeling, Juha-Pekka Tolvanen (Metacase)
+                Chair: Bran Selic
+
+
+9:40 - 10:00   Session 1: Empirical studies on Software Modeling Adoption
+               Chair: Silvia Abrahao
+
+- "Unveiling Developers’ Mindset Barriers to Software Modeling Adoption", Reyhaneh Kalantari and Timothy Lethbridge
+
+10:00 - 10:30  Coffee Break
+
+10:30 - 11:30  Session 2: Models and Human Factors
+Chair: Arnaud Blouin
+
+- "Task Models as a Mean to Identify and Justify Automations in Development Tasks", Axel Carayon, Célia Martinie and Philippe Palanque
+
+- "Challenging Models: Formalizing Quests in Gamified Systems for Behavioral Change", Federico Bonetti, Antonio Bucchiarone, Antonio Cicchetti and Annapaola Marconi
+
+- "COMET: A ML-Based Tool for Evaluating the Effectiveness of Software Design Communication", Marcus Lindgren, Jon Persson, Felix Dobslaw and Rodi Jolak
+
+
+11:30 - 12:00  Working session & Wrap Up
+               Chair: Philippe Palanque 
+
+
+**********************************************************************
+Human Factors and Selling Modeling
+
+To model or not to model? This question is often answered subjectively, and in teams, the answer is reached through a decision-making process that can be challenging to follow. This talk addresses selling modeling to users in industrial settings. These users include not only those who create models but also those who update, read, verify, validate, or otherwise utilize the results produced from models. They all tend to play a role in the decision making.
+
+In this talk, I will share personal experiences as well as more objective data we have collected from industry cases spanning three decades: What makes starting modeling easy, what prevents it, and what can even halt modeling efforts that are already applied. For each of these decisions, there can be valid reasons, but there appears to be less guidance for decision-making in a form that the industry is prepared to apply. The talk will review industry practices and identify factors that often influence decisions to model or not to model. These insights can potentially assist companies and their teams while also providing some direction for empirical research and applied research methods.
+
+Short Bio:
+Dr. Juha-Pekka Tolvanen is the CEO of MetaCase and co-founder of the DSM Forum. He has been involved in model-driven development and tools, notably metamodeling and code generators, since 1991. He has acted as a consultant world-wide for modeling language development, authored a book on Domain-Specific Modeling, and written over 100 articles for various software development magazines and conferences. Juha-Pekka is a regular speaker at industry events and conferences — with keynotes at Code Generation Conference and ACM/IEEE Conference on Model Driven Engineering Languages and Systems, and panels at Architecture & Design World, OOPSLA/SPLASH, OOP and SPLC. 
+
+
+
+
+
 ## How to submit
 
 The official call for paper is here: [CFP]({% link editions/2023/cfp.md %})
