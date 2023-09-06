@@ -47,6 +47,9 @@ Chairs: Arnaud Blouin, Silvia Abrahao, Phillipe Palanque and Bran Selic
 8:40- 9:40      Keynote: Human Factors and Selling Modeling, Juha-Pekka Tolvanen (Metacase)
                 Chair: Bran Selic
 
+Short Bio:
+Dr. Juha-Pekka Tolvanen is the CEO of MetaCase and co-founder of the DSM Forum. He has been involved in model-driven development and tools, notably metamodeling and code generators, since 1991. He has acted as a consultant world-wide for modeling language development, authored a book on Domain-Specific Modeling, and written over 100 articles for various software development magazines and conferences. Juha-Pekka is a regular speaker at industry events and conferences — with keynotes at Code Generation Conference and ACM/IEEE Conference on Model Driven Engineering Languages and Systems, and panels at Architecture & Design World, OOPSLA/SPLASH, OOP and SPLC. 
+
 
 9:40 - 10:00   Session 1: Empirical studies on Software Modeling Adoption
                Chair: Silvia Abrahao
@@ -76,8 +79,6 @@ To model or not to model? This question is often answered subjectively, and in t
 
 In this talk, I will share personal experiences as well as more objective data we have collected from industry cases spanning three decades: What makes starting modeling easy, what prevents it, and what can even halt modeling efforts that are already applied. For each of these decisions, there can be valid reasons, but there appears to be less guidance for decision-making in a form that the industry is prepared to apply. The talk will review industry practices and identify factors that often influence decisions to model or not to model. These insights can potentially assist companies and their teams while also providing some direction for empirical research and applied research methods.
 
-Short Bio:
-Dr. Juha-Pekka Tolvanen is the CEO of MetaCase and co-founder of the DSM Forum. He has been involved in model-driven development and tools, notably metamodeling and code generators, since 1991. He has acted as a consultant world-wide for modeling language development, authored a book on Domain-Specific Modeling, and written over 100 articles for various software development magazines and conferences. Juha-Pekka is a regular speaker at industry events and conferences — with keynotes at Code Generation Conference and ACM/IEEE Conference on Model Driven Engineering Languages and Systems, and panels at Architecture & Design World, OOPSLA/SPLASH, OOP and SPLC. 
 
 
 
