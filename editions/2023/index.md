@@ -156,7 +156,6 @@ Accepted papers will be published in the MODELS conference companion proceedings
 - Mahdi Manesh, Porsche Digital GmbH, Germany
 - Judith Michael, RWTH Aachen University, Germany
 - Fabio Paterno, CNR-ISTI, Italy
-- Eugene Syriani, University of Montreal, Canada
 - Matthias Tichy, Ulm University, Germany
 - Jean Vanderdonckt, Université catholique de Louvain, Belgium
 - Marco Winckler, Université Côte d'Azur, France
