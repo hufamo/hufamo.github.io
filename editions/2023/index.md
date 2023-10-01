@@ -36,7 +36,7 @@ In line with our topic and objectives, we address four audiences. First, we welc
 
 ## Program
 
-8:30 - 10:00     Opening, Keynote and Session 1
+### Opening, Keynote and Session 1 (8:30 - 10:00)
 
 
 8:30 - 8:40    Day opening and Welcome
@@ -56,9 +56,11 @@ Dr. Juha-Pekka Tolvanen is the CEO of MetaCase and co-founder of the DSM Forum. 
 
 - "Unveiling Developers’ Mindset Barriers to Software Modeling Adoption", Reyhaneh Kalantari and Timothy Lethbridge
 
+
 10:00 - 10:30  Coffee Break
 
-10:30 - 11:30  Session 2: Models and Human Factors
+
+### Session 2: Models and Human Factors (10:30 - 11:30)
 Chair: Arnaud Blouin
 
 - "Task Models as a Mean to Identify and Justify Automations in Development Tasks", Axel Carayon, Célia Martinie and Philippe Palanque
@@ -73,7 +75,7 @@ Chair: Arnaud Blouin
 
 
 **********************************************************************
-Human Factors and Selling Modeling
+**Human Factors and Selling Modeling**
 
 To model or not to model? This question is often answered subjectively, and in teams, the answer is reached through a decision-making process that can be challenging to follow. This talk addresses selling modeling to users in industrial settings. These users include not only those who create models but also those who update, read, verify, validate, or otherwise utilize the results produced from models. They all tend to play a role in the decision making.
 
