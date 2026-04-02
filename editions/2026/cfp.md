@@ -1,10 +1,10 @@
 =================================================================================================
 
 CALL FOR PAPERS
-7th International Workshop on Human Factors in Modeling / Modeling of Human Factors (HuFaMo 2023)
+8th International Workshop on Human Factors in Modeling / Modeling of Human Factors (HuFaMo 2026 )
 co-located with the MODELS 2026 conference
-1-3 October 2023 (Västerås, Sweden)
-https://hufamo.github.io/editions/2023/
+1-3 October 2026 (Granada, Spain)
+https://hufamo.github.io/editions/2026/
 
 ================================================================================================
 
@@ -29,8 +29,8 @@ Relevant topics to the human factors in modeling and design include:
 
 IMPORTANT DATES (AoE)
 
-Abstract submission: July 10, 2023
-Paper submission: July 17, 2023
+Abstract submission: July 10, 2026
+Paper submission: July 17, 2026
 Review period: July 18 –  August 8, 2023
 Discussion period: 9 August 2023  –  August 14, 2023
 Notification: August 15, 2023
