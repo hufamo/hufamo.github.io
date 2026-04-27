@@ -82,6 +82,6 @@ Accepted papers will be published in the MODELS conference companion proceedings
 
 To be announced
 
-CONTACT
+## CONTACT
 
 For additional information, please contact the Organising Committee by email at hufamo2026@easychair.org
