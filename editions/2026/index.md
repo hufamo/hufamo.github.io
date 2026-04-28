@@ -1,27 +1,35 @@
-# HuFaMo 2023
+# HuFaMo 2026
 
-Co-located with [MODELS 2026: ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS). Granada, Sweden, October 1-3, 2023](https://conf.researchr.org/home/models-2023)
+Co-located with [MODELS 2026: ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems (MODELS). Malaga, Spain, October 4-9, 2026](https://conf.researchr.org/home/models-2026)
 
 Follow us on [Twitter](https://twitter.com/HufamoWorkshop)
 
 ## Overview
 
-Software users are diverse, with differing personalities, technical proficiency, emotional reactions to software systems, socio-economic status, gender, age, culture, language, and preferences. Capturing and supporting human factors at requirements or design stages are essential for designing and modeling human-centric software systems that fit the end-users of the systems. Moreover, since modeling is an intrinsically human endeavor, many of the questions related to modeling can only be answered by empirical studies. The HuFaMo workshop series is a venue for early-stage empirical research involving human factors in modeling and design. Our goal is to improve the state of science and professionalism in empirical research in the MDE community. We perceive MODELS to be a high-quality venue that does not yet sufficiently reflect either **modeling and design of human factors** as well as the **human factor in modeling and design**.
+Software end-users are diverse, with differing personalities, technical proficiency, emotional reactions to software use, socio-economic status, gender, age, culture, language, and preferences. Capturing and supporting human factors at requirements or design stages is essential for designing and modelling human-centric software systems that fit the end-users of the systems. 
+Moreover, since modelling is an intrinsically human endeavour, many modelling-related questions can only be answered by empirical studies, as users’ perceptions and feelings are difficult to capture otherwise. The HuFaMo workshop series is a venue for early-stage empirical research involving human factors in the design, construction, and modelling of software systems. Our goal is to improve the state of science and professionalism in empirical research in the model-based engineering community. The MODELS conference as a high-quality venue that does not yet sufficiently reflect both **modelling and design of human factors information** and the **human factors aspects involved in modelling and design activities**.
 
+In the eighth edition, we continue our efforts to consolidate and strengthen the research community interested in these topics, which are now extended with DevX.
 
-With this seventh edition, we intend to continue our efforts to consolidate and strengthen the community of researchers concerned by these topics.
-Typical examples of **modeling and design of human factors** involve the modeling of end-users’ emotional states or personal characteristics. Relevant topics to modeling of human factors include, but are not limited to:
+Typical examples of **modelling and design of human factors** information include modelling end-users’ emotional states, personal characteristics, tasks and knowledge. Relevant topics to modelling of human factors information
+include, but are not limited to:
 
-- New theories and design principles about human factors modeling and design;
-- New methods and techniques to incorporate human factors into requirements, design models, or MDE tools to improve their usability;
-- New tools to assist in modeling, requirements capturing, and design of human factors;
-- Modeling human factors and supporting human-centric issues in model-driven software engineering;
-- Modeling the human aspects of stakeholders and end-users of the software, such as age, gender, personality, emotions, disability and preferences;
-- Industrial experience reports in modeling human factors in software development;
-- Reviews and surveys of approaches in human factors modeling and design.
+New theories and design principles about human factors information to be be represented in models;
+– New methods and techniques to incorporate human factors related information into requirements, design models, or model-based tools to improve their usability and the user experience of the engineers;
+– New tools to assist in capturing, modelling, and organising of human factors information;
+– Modelling human factors and supporting human-centric development in model-based software engineering;
+– Modelling the human aspects of stakeholders (including end-users) of the software, such as age, gender, personality, disabilities and preferences;
+– Experience reports from industry in modelling human factors information throughout software development;
+– Reviews and surveys of approaches in human factors information modelling.
 
-Examples of **human factor in modeling and design** might consider the usability of modeling methods, languages and tools, or the emotional states or personal judgments of modelers. Relevant topics include, but are not limited to:
-- Training, testing, evaluating modeling tools and related practices;
+Examples of human factors involved in modelling and design activities might include the usability of modelling methods, languages and tools, and the user experience of modellers (including emotional states, moods and feelings, happiness, stimulation, meaning and value in work ...). Relevant topics include, but are not limited to:
+- Training, testing, evaluating, modelling tools and related practices;
+- DevX in model-based engineering approaches;
+- Affects (i.e. emotions, feelings and moods) of users using modelling-related tools and performing activities on these tools;
+- Stress, cognitive load and fatigue perceived during modelling activities and artifacts construction;
+- Communicative and cognitive strategies and styles connected to design and modelling activities, including solution space exploration while modelling;
+- Collaboration, teamwork and group behaviour, including social connectedness and social translucence.
+
 - Emotions of users in the face of modeling-related tools and activities;
 - Stress, cognitive load and performance involving modeling activities andartifacts;
 - Communicative and cognitive strategies and styles connected to design and modeling activities, including solution space exploration while modeling;
@@ -30,86 +38,38 @@ Examples of **human factor in modeling and design** might consider the usability
 
 ## Intended Audience
 
-In line with our topic and objectives, we address four audiences. First, we welcome researchers and practitioners active in the field of modeling and design of human factors, and provide them with a venue for disseminating their research results and keeping up to date with the latest developments in the field. Second, we propose the same type of venue for researchers and practitioners in the field of human factors in modeling and design. Third, we address researchers who want to start conducting empirical research. In the workshop, they will find a constructive environment where they can present their study design or theoretical framework under development. Four, we address practitioners that develop modeling tools to share their feedback and issues while considering human factors in their tools.
+In line with our topic and objectives, we address four audiences: 
+(1) We welcome researchers and practitioners active in the field of modelling of human factors information, and provide them with a venue to disseminate their research results and stay up to date with the latest developments in the field. 
+(2) We propose the same type of venue for researchers and practitioners in the field of studying the impact of human factors in modelling and design activities. 
+(3) We welcome researchers who want to start conducting empirical research in general and, more precisely, for end-users and developers. In the workshop, they will find a constructive environment where they can present their study design or theoretical framework they have used or plan to use for performing empirical research. 
+(4) We address practitioners who develop modelling tools to share their feedback and issues while considering human factors in the design of their tools.
 
-
-
-## Program
-
-### Opening, Keynote and Session 1 (8:30 - 10:00)
-
-
-8:30 - 8:40    Day opening and Welcome
-
-Chairs: Arnaud Blouin, Silvia Abrahao, Phillipe Palanque and Bran Selic
-
-
-8:40- 9:40      Keynote: Human Factors and Selling Modeling, Juha-Pekka Tolvanen (Metacase)
-                Chair: Bran Selic
-
-Short Bio:
-Dr. Juha-Pekka Tolvanen is the CEO of MetaCase and co-founder of the DSM Forum. He has been involved in model-driven development and tools, notably metamodeling and code generators, since 1991. He has acted as a consultant world-wide for modeling language development, authored a book on Domain-Specific Modeling, and written over 100 articles for various software development magazines and conferences. Juha-Pekka is a regular speaker at industry events and conferences — with keynotes at Code Generation Conference and ACM/IEEE Conference on Model Driven Engineering Languages and Systems, and panels at Architecture & Design World, OOPSLA/SPLASH, OOP and SPLC. 
-
-
-9:40 - 10:00   Session 1: Empirical studies on Software Modeling Adoption
-               Chair: Silvia Abrahao
-
-- "Unveiling Developers’ Mindset Barriers to Software Modeling Adoption", Reyhaneh Kalantari and Timothy Lethbridge
-
-
-10:00 - 10:30  Coffee Break
-
-
-### Session 2: Models and Human Factors (10:30 - 11:30)
-Chair: Arnaud Blouin
-
-- "Task Models as a Mean to Identify and Justify Automations in Development Tasks", Axel Carayon, Célia Martinie and Philippe Palanque
-
-- "Challenging Models: Formalizing Quests in Gamified Systems for Behavioral Change", Federico Bonetti, Antonio Bucchiarone, Antonio Cicchetti and Annapaola Marconi
-
-- "COMET: A ML-Based Tool for Evaluating the Effectiveness of Software Design Communication", Marcus Lindgren, Jon Persson, Felix Dobslaw and Rodi Jolak
-
-
-11:30 - 12:00  Working session & Wrap Up
-               Chair: Philippe Palanque 
-
-
-**********************************************************************
-**Human Factors and Selling Modeling**
-
-To model or not to model? This question is often answered subjectively, and in teams, the answer is reached through a decision-making process that can be challenging to follow. This talk addresses selling modeling to users in industrial settings. These users include not only those who create models but also those who update, read, verify, validate, or otherwise utilize the results produced from models. They all tend to play a role in the decision making.
-
-In this talk, I will share personal experiences as well as more objective data we have collected from industry cases spanning three decades: What makes starting modeling easy, what prevents it, and what can even halt modeling efforts that are already applied. For each of these decisions, there can be valid reasons, but there appears to be less guidance for decision-making in a form that the industry is prepared to apply. The talk will review industry practices and identify factors that often influence decisions to model or not to model. These insights can potentially assist companies and their teams while also providing some direction for empirical research and applied research methods.
-
-
-
-
-
+## Relevance
+Modelling and design of human factors is an essential step toward designing human-centric software systems. Software is designed and built primarily to solve human needs. However, many software systems have issues with cost overruns (badly captured requirements); hard-to-maintain and dangerous solutions (incorrect technology choice, usage or deployment); and hard-to-use software that does not meet users’ needs (poor understanding of user needs and poor design). Many of these problems can be traced to a lack of understanding and incorporation of end-user human factors. This workshop will focus on showcasing emerging approaches to better incorporating the human aspects into modelling and design of software systems. On the other hand, empirical studies are classic milestones of research projects on human factors in modelling. Surveys, case studies or controlled experiments are indeed means to validate steps from the initial idea to the final theory. These studies require substantial amount of time and resources.
+Careful preparation is therefore essential to avoid mistakes with severe consequences. This workshop is the perfect place to complete such preparation and consequently to make more significant progress in this key area.
 
 ## How to submit
 
-The official call for paper is here: [CFP]({% link editions/2023/cfp.md %})
+The official call for paper is here: [CFP]({% link editions/2026/cfp.md %})
 
-Papers should be submitted in PDF format through EasyChair [https://easychair.org/my/conference?conf=hufamo2023](https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
+Papers should be submitted in PDF format through EasyChair [https://easychair.org/my/conference?conf=hufamo2026](https://easychair.org/my/conference?conf=hufamo2026). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents  work that is not yet fully validated, the paper title must have one of the phrases 'Proposal', 'Preliminary results',  'Work in progress' or 'Position paper'.
 
 Full papers must not exceed 10 pages, including references, appendices, and figures, while Position papers must not exceed 5 pages.
 
 The following are some guidelines for particular types of content:
-- EMPIRICAL STUDY of human factors in modeling and modeling of human factors, including replication studies and negative results. We strongly encourage authors to submit raw data and analysis scripts.
-- STUDY DESIGNS investigating human factors in modeling and modeling of human factors. These contributions will be evaluated based on the quality of the study design alone.
-    No actual study results are expected.
+- EMPIRICAL STUDY of human factors in modelling and modelling of human factors, including replication studies and negative results. We strongly encourage authors to submit raw data and analysis scripts.
+- STUDY DESIGNS investigating human factors in modelling and modelling of human factors. These contributions will be evaluated based on the quality of the study design alone. No actual study results are expected.
 - THEORY PAPERS contributing to, or developing, a theory of some aspect of human factors relevant in modeling and also modeling languages and frameworks for incorporating human factors into the design of software systems. No empirical validation is required, but a thorough analysis of the existing work is expected.
 - TOOL PAPERS that present any software developed to support empirical studies related to human factors in modeling and tools developed to model human factors. We intend here to promote tools that can speed up the execution of experiments. In particular, we seek libraries, frameworks or APIs that gather data about human actions and/or interactions between humans and electronic devices.
 - POSITION PAPERS describe initial ideas or visions. Such papers may describe research positions or preliminary approaches on human factors in modeling and modeling of human factors.
 
 Accepted submissions will be discussed in the workshop. We particularly encourage researchers that need to design a study but lack experience in this field to come forward and present study designs so these may be discussed and improved, leading to better quality research.
 
-Submissions must adhere to the [IEEE formatting instructions](https://www.ieee.org/conferences/publishing/templates.html).
-Full papers must be no more than 10 pages in length, including references, appendices, and figures, while Position papers must have a maximum of 5 pages.
+Submissions must adhere to the [ACM formatting instructions](https://www.acm.org/publications/proceedings-template). Full papers must be no more than 10 pages in length, including references, appendices, and figures, while Position papers must have a maximum of 5 pages.
 
-Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review. Accepted papers will be published in the MODELS conference companion proceedings published by IEEE. Please contact the workshop organizers if you have any questions.
+Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review. Accepted papers will be published in the MODELS conference companion proceedings published by ACM. Please contact the workshop organisers if you have any questions.
 
 
 ## Evaluation Criteria
@@ -119,47 +79,38 @@ Papers will be evaluated mainly from their practical take-away and the potential
 
 ## Important Dates
 
-~~- **Paper submission deadline: July 17, 2023**~~
-- **Paper abstract submission deadline: July 17, 2023, AoE**
-- **Full Paper submission deadline: July 24, 2023, AoE**
-- Notification of acceptance: August 15, 2023
-- Camera-ready deadline: August 22, 2023
-- **Workshop: October 1-3, 2023**
+- **Paper submission deadline: July 3, 2026, AoE**
+- Notification of acceptance: July 31, 2026
+- Camera-ready deadline: August 14, 2026
+- **Workshop: October 4-6, 2026**
 
 
-## Dissemination
+## Publication
 
-Accepted papers will be published in the MODELS conference companion proceedings published by IEEE.
+Accepted papers will be published in the MODELS conference companion proceedings published by ACM.
 
- Authors are encouraged to provide supplementary data of their respective research (e.g., raw data, transcripts, video footage of study sessions, R scripts), to be made permanently publicly available in the workshop’s repository, built on ZENODO. Although providing such extra material will not be mandatory, it is strongly encouraged, as a good practice in empirical studies.
+### Important update on ACMs new open access publishing model for 2026 ACM Conferences!
 
+Starting January 1, 2026, ACM has fully transitioned to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open.
 
+Understanding that this change could present financial challenges, ACM has approved a temporary subsidy of 65% for 2026. The subsidy will offer:
+- $250 APC for ACM/SIG members
+- $350 for non-members
+  
+Note for this workshop: extended abstracts will be covered by a specific agreement with MODELS and will be published open-access free of charge.
+
+### Supplementary materials
+Authors are encouraged to provide supplementary data of their respective research (e.g., raw data, transcripts, video footage of study sessions, R scripts), to be made permanently publicly available in the workshop’s repository, built on ZENODO. Although providing such extra material will not be mandatory, it is strongly encouraged, as a good practice in empirical studies.
 
 ## Workshop Co-Chairs
 
-- Silvia Abrahão, Universitat Politecnica de Valencia, Spain
-- Arnaud Blouin, Univ Rennes, France
+- Miguel Goulão, Universidade NOVA de Lisboa, Portugal
+- Shalini Chakraborty, University of Bayreuth, Germany
 - Philippe Palanque, Université Toulouse III, France
-- Bran Selic, Faculty of Information Technology at Monash University, Canada
+- Silvia Abrahão, Universitat Politecnica de Valencia, Spain
 
 
 ## Program Committee
 
-- Ankica Barisic, Université Côte d'Azur, France
-- Matthew Bolton, University of Virginia, USA
-- Michel Chaudron, Eindhoven University of Technology, Netherlands
-- Miguel Goulão, Universidade Nova de Lisboa, Portugal
-- Emilio Insfran, Universitat Politècnica de València, Spain
-- Rodi Jolak, Chalmers University of Technology, Sweden
-- Tanjila Kanij, Monash University, Australia
-- Grischa Liebel, Reykjavik University, Island
-- Kris Luyten, Hasselt University, Belgium
-- Juha-Pekka Tolvanen, MetaCase, Finland
-- Mahdi Manesh, Porsche Digital GmbH, Germany
-- Judith Michael, RWTH Aachen University, Germany
-- Fabio Paterno, CNR-ISTI, Italy
-- Matthias Tichy, Ulm University, Germany
-- Jean Vanderdonckt, Université catholique de Louvain, Belgium
-- Marco Winckler, Université Côte d'Azur, France
-- Uwe Zdun, University of Vienna, Austria
+To be announced
 

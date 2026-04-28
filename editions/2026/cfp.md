@@ -1,49 +1,44 @@
 =================================================================================================
 
-CALL FOR PAPERS
+# CALL FOR PAPERS
 8th International Workshop on Human Factors in Modeling / Modeling of Human Factors (HuFaMo 2026 )
 co-located with the MODELS 2026 conference
-1-3 October 2026 (Granada, Spain)
+4-6 October 2026 (Malaga, Spain)
 https://hufamo.github.io/editions/2026/
 
 ================================================================================================
 
-Studying human factors and experiences in modeling helps improve knowledge of the modeling process, adoption of modeling, optimization of system outcomes, and user well-being. Incorporating human aspects into the early stages of software engineering processes is essential to better support the stakeholders, including end-users of the software. The HuFaMo workshop at MODELS conference provides an opportunity for the modeling community to further advance the state of the art and practice in two areas of modeling and design of human factors and human factors in modeling and design.
+The 8th International Workshop on Human Factors in Modelling / Modelling of Human Factors (HuFaMo’26) at the MODELS conference provides an opportunity for the modelling community to further advance the research in the areas of **modelling of human factors information** and **human factors in modelling and design**.
 
-Relevant topics to modeling and design of human factors include:
-- New theories and design principles about human factors modeling and design
-- New methods and techniques to incorporate human factors into requirements and design models
-- New tools to assist in modeling, requirements capturing, and design of human factors
-- Modeling human factors and supporting human-centric issues in model-driven software engineering
-- Modeling the human aspects of stakeholders and end-users of the software, such as age, gender, personality, emotions, disability and preferences
-- Industrial experience reports in modeling human factors in software development
-- Reviews and surveys of approaches in human factors modeling and design
+Topics in **modelling of human factors-related information** include:
+– New theories and design principles about human factors information to be represented in models;
+– New methods and techniques to incorporate human factors-related information into requirements, design models, or model-based tools to improve their usability and the user experience of the engineers;
+– New tools to assist in capturing, modelling, and organising of human factors information;
+– Modelling human factors and supporting human-centric development in model-based software engineering;
+– Modelling the human aspects of stakeholders (including end-users) of the software, such as age, gender, personality, disabilities and preferences;
+– Experience reports from industry in modelling human factors information throughout software development;
+– Reviews and surveys of approaches in human factors information modelling.
 
-Relevant topics to the human factors in modeling and design include:
-- Emotions of users in the face of modeling-related tools and activities
-- Stress, load and performance involving modeling activities and artifacts
-- Communicative and cognitive strategies and styles connected to design and modeling activities
-- Training and testing of modeling tools and related practices
-- Team and group behavior, including behavior across (social) media
-
-
-IMPORTANT DATES (AoE)
-
-Abstract submission: July 10, 2026
-Paper submission: July 17, 2026
-Review period: July 18 –  August 8, 2023
-Discussion period: 9 August 2023  –  August 14, 2023
-Notification: August 15, 2023
-Camera-ready: August 22, 2023
-MODELS Workshops: October 1-3, 2023 (the exact date for HuFaMo is to be defined)
+Topics in **human factor aspects involved in modelling and design activities** include:
+– Training, testing, evaluating modelling tools and related practices;
+– DevX in model-based engineering approaches;
+– Affects (i.e. emotions, feelings and moods) of users using modelling-related tools and performing activities on these tools;
+– Stress, cognitive load and fatigue perceived during modelling activities and artifacts construction;
+– Communicative and cognitive strategies and styles connected to design and modelling activities, including solution space exploration while modelling;
+– Collaboration, teamwork and group behaviour, including social connectedness and social translucence.
 
 
-SUBMISSION PROCESS
+## IMPORTANT DATES (AoE)
+- Submission date: Friday July 3rd, 2026
+- Author notification: Monday July 31st, 2026
+- Camera ready version: Friday August 14th 2026
 
-Papers should be submitted in PDF format through EasyChair (https://easychair.org/my/conference?conf=hufamo2023). We follow a double blind review process where authors will not be identified to reviewers and reviewers will not be identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
+## SUBMISSION PROCESS
+
+Papers should be submitted in PDF format through EasyChair (https://easychair.org/my/conference?conf=hufamo2026). We follow a double-blind review process in which authors are not identified to reviewers, and reviewers are not identified to authors. Authors do not have to suppress references to their previous work, but should refer to it in the third person.
 
 
-SUBMISSION GUIDELINES
+## SUBMISSION GUIDELINES
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents work that is not yet fully validated, the paper title must have one of the phrases ’Proposal’, ’Preliminary results’, ’Work in progress’ or ’Position paper’. The following are some guidelines for particular types of content:
 
@@ -57,53 +52,36 @@ Authors must make it clear in the abstract if the paper contains an empirical st
 
 - POSITION PAPERS describe initial ideas or visions. Such papers may describe research positions or preliminary approaches on human factors in modeling and modeling of human factors
 
-Submissions must adhere to the IEEE formatting instructions
-(https://www.ieee.org/conferences/publishing/templates.html).
+Submissions must adhere to the ACM formatting instructions
+([https://www.ieee.org/conferences/publishing/templates.html](https://www.acm.org/publications/proceedings-template)).
 
 Full papers must not exceed 10 pages, including references, appendices, and figures, while Position papers must not exceed 5 pages. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
 
 Detailed information on how to submit can be found at
-https://hufamo.github.io/editions/2023/
+[https://hufamo.github.io/editions/2026/](https://hufamo.github.io/editions/2026/).
 
 
-ATTENDANCE
+## ATTENDANCE
 
 If a submission is accepted, at least one author of the paper is required to register for and attend the conference and present the paper.
 
 
-PUBLICATION
+## PUBLICATION
 
-Accepted papers will be published in the MODELS conference companion proceedings published by IEEE.
+Accepted papers will be published in the MODELS conference companion proceedings published by ACM.
 
 
-ORGANIZATION COMMITTEE
+## ORGANIZATION COMMITTEE
 
-- Arnaud Blouin, University of Rennes (France)
+- Miguel Goulão, Universidade Nova de Lisboa (Portugal)
+- Shalini Chakraborty, University of Bayreuth (Germany)
 - Silvia Abrahão, Universitat Politècnica de València (Spain)
 - Philippe Palanque, Université Toulouse III (France)
-- Bran Selic, Monash University (Australia)
 
-PROGRAM COMMITTEE
+## PROGRAM COMMITTEE
 
-- Ankica Barisic, Université Côte d'Azur, France
-- Matthew Bolton, University of Virginia, USA
-- Michel Chaudron, Eindhoven University of Technology, Netherlands
-- Miguel Goulão, Universidade Nova de Lisboa, Portugal
-- Emilio Insfran, Universitat Politècnica de València, Spain
-- Rodi Jolak, Chalmers University of Technology, Sweden
-- Tanjila Kanij, Monash University, Australia
-- Grischa Liebel, Reykjavik University, Island
-- Kris Luyten, Hasselt University, Belgium
-- Juha-Pekka Tolvanen, MetaCase, Finland
-- Mahdi Manesh, Porsche Digital GmbH, Germany
-- Judith Michael, RWTH Aachen University, Germany
-- Fabio Paterno, CNR-ISTI, Italy
-- Eugene Syriani, University of Montreal, Canada
-- Matthias Tichy, Ulm University, Germany
-- Jean Vanderdonckt, Université catholique de Louvain, Belgium
-- Marco Winckler, Université Côte d'Azur, France
-- Uwe Zdun, University of Vienna, Austria
+To be announced
 
-CONTACT
+## CONTACT
 
-For additional information, please contact the Organizing Committee by email at hufamo2023@easychair.org
+For additional information, please contact the Organising Committee by email at hufamo2026@easychair.org
