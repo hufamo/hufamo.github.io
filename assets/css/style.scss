@@ -3,34 +3,43 @@
 
 @import "{{ site.theme }}";
 
-header {
+/* Header layout using flexbox */
+#header_wrap .inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
 }
 
+/* Header background */
+#header_wrap {
+  background: #7d7d7d;
+}
+
+/* Logo now participates in layout */
+#logo {
+  position: static;   /* remove absolute positioning */
+  width: 120px;       /* adjust size as needed */
+  height: auto;
+}
+
+/* Optional: make sure title area doesn’t shrink too much */
+#header_wrap h1,
+#header_wrap h2 {
+  margin: 0;
+}
+
+/* Hide footer */
 footer {
   display: none;
 }
 
+/* Main content width */
 .inner {
   max-width: 1000px;
 }
 
+/* Remove extra top padding */
 #main_content {
   padding-top: 0px;
-}
-
-#header_wrap .inner {
-   padding: 10px;
-}
-
-#header_wrap {
-   background: #7d7d7d;
-}
-
-#logo {
-  position: absolute;
-  z-index: 10;
-  top: 10px;
-  right: 10%;
-  width: 10%;
-  height: auto;
 }
