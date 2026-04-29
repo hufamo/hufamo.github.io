@@ -104,7 +104,7 @@ Authors are encouraged to provide supplementary data of their respective researc
 
 - [Miguel Goulão](https://docentes.fct.unl.pt/mgoul/biocv), Universidade NOVA de Lisboa, Portugal
 - [Shalini Chakraborty](https://scholar.google.com/citations?user=RSnyQoMAAAAJ&hl=en&inst=10010405646339770000), University of Bayreuth, Germany
-- [Philippe Palanque](https://www.irit.fr/recherches/ICS/people/palanque/), Université Toulouse III, France
+- [Philippe Palanque](https://www.irit.fr/recherches/ICS/people/palanque/), Université de Toulouse, France
 - [Silvia Abrahão](https://sabrahao.wixsite.com/dsic-upv), Universitat Politecnica de Valencia, Spain
 
 
