@@ -4,6 +4,8 @@ Co-located with [MODELS 2026: ACM/IEEE 29th International Conference on Model Dr
 
 Follow us on [Twitter](https://twitter.com/HufamoWorkshop)
 
+HuFaMo 2026 is the 8th edition of this [workshop series](https://hufamo.github.io/), all of them co-organized with the MODELS conferences. Information about previous workshops is [avaialble here](https://hufamo.github.io/). 
+
 ## Overview
 
 Software end-users are diverse, with differing personalities, technical proficiency, emotional reactions to software use, socio-economic status, gender, age, culture, language, and preferences. Capturing and supporting human factors at requirements or design stages is essential for designing and modelling human-centric software systems that fit the end-users of the systems. 
