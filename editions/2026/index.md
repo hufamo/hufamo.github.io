@@ -56,8 +56,6 @@ Papers should be submitted in PDF format through EasyChair [https://easychair.or
 
 Authors must make it clear in the abstract if the paper contains an empirical study, a proposal or is a position paper, and which of the topics listed above are covered. If a paper represents  work that is not yet fully validated, the paper title must have one of the phrases 'Proposal', 'Preliminary results',  'Work in progress' or 'Position paper'.
 
-Full papers must not exceed 10 pages, including references, appendices, and figures, while Position papers must not exceed 5 pages.
-
 The following are some guidelines for particular types of content:
 - EMPIRICAL STUDY of human factors in modelling and modelling of human factors, including replication studies and negative results. We strongly encourage authors to submit raw data and analysis scripts.
 - STUDY DESIGNS investigating human factors in modelling and modelling of human factors. These contributions will be evaluated based on the quality of the study design alone. No actual study results are expected.
@@ -104,10 +102,10 @@ Authors are encouraged to provide supplementary data of their respective researc
 
 ## Workshop Co-Chairs
 
-- Miguel Goulão, Universidade NOVA de Lisboa, Portugal
-- Shalini Chakraborty, University of Bayreuth, Germany
-- Philippe Palanque, Université Toulouse III, France
-- Silvia Abrahão, Universitat Politecnica de Valencia, Spain
+- [Miguel Goulão](https://docentes.fct.unl.pt/mgoul/biocv), Universidade NOVA de Lisboa, Portugal
+- [Shalini Chakraborty](https://scholar.google.com/citations?user=RSnyQoMAAAAJ&hl=en&inst=10010405646339770000), University of Bayreuth, Germany
+- [Philippe Palanque](https://www.irit.fr/recherches/ICS/people/palanque/), Université Toulouse III, France
+- [Silvia Abrahão](https://sabrahao.wixsite.com/dsic-upv), Universitat Politecnica de Valencia, Spain
 
 
 ## Program Committee
