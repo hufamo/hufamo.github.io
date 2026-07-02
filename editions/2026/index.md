@@ -112,5 +112,15 @@ Authors are encouraged to provide supplementary data of their respective researc
 
 ## Program Committee
 
-To be announced
+- Alexander Serebrenik, Eindhoven University of Technology, The Netherlands
+- Ankica Barisic, Université Côte d'Azur, France
+- Arnaud Blouin, INSA Rennes, Inria/IRISA, Diverse Team, France
+- Gregorio Robles, Universidad Rey Juan Carlos, Spain
+- Juha-Pekka Tolvanen, MetaCase, Finland
+- Mahdi	Manesh, Porsche Digital GmbH, Germany
+- Marco	Winckler, Université Côte d'Azur, France
+- Matthias Tichy, Ulm University, Germany
+- Michel Chaudron, Eindhoven University of Technology, The Netherlands
+- Rodi Jolak, Mid Sweden University, Sweden
+- Timothy	Lethbridge, University of Ottawa, Canada
 
