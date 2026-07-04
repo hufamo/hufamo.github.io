@@ -29,7 +29,7 @@ Topics in **human factor aspects involved in modelling and design activities** i
 
 
 ## IMPORTANT DATES (AoE)
-- Submission date: Friday July 3rd, 2026
+- Submission date: Friday July 10th, 2026 (*Extended!*)
 - Author notification: Monday July 31st, 2026
 - Camera ready version: Friday August 14th 2026
 
