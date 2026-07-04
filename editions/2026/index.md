@@ -79,7 +79,7 @@ Papers will be evaluated mainly from their practical take-away and the potential
 
 ## Important Dates
 
-- **Paper submission deadline: July 3, 2026, AoE**
+- **Paper submission deadline: July 10, 2026, AoE** (*Extended!*)
 - Notification of acceptance: July 31, 2026
 - Camera-ready deadline: August 14, 2026
 - **Workshop: October 4-6, 2026**
