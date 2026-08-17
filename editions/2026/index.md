@@ -16,7 +16,7 @@ In the eighth edition, we continue our efforts to consolidate and strengthen the
 Typical examples of **modelling and design of human factors** information include modelling end-users’ emotional states, personal characteristics, tasks and knowledge. Relevant topics to modelling of human factors information
 include, but are not limited to:
 
-New theories and design principles about human factors information to be be represented in models;
+New theories and design principles about human factors information to be represented in models;
 – New methods and techniques to incorporate human factors related information into requirements, design models, or model-based tools to improve their usability and the user experience of the engineers;
 – New tools to assist in capturing, modelling, and organising of human factors information;
 – Modelling human factors and supporting human-centric development in model-based software engineering;
