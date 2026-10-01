@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # HuFaMo 2026
 
 Co-located with [MODELS 2026: ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems (MODELS). Malaga, Spain, October 4-9, 2026](https://conf.researchr.org/home/models-2026)
@@ -5,6 +9,101 @@ Co-located with [MODELS 2026: ACM/IEEE 29th International Conference on Model Dr
 Follow us on [Twitter](https://twitter.com/HufamoWorkshop)
 
 HuFaMo 2026 is the 8th edition of this [workshop series](https://hufamo.github.io/), all of them co-organized with the MODELS conferences. Information about previous workshops is [avaialble here](https://hufamo.github.io/). 
+
+## HuFaMo 2026 Workshop Program (MODELS 2026) [Download as PDF]({{ "/files/HuFaMo 2026 Workshop Program (for website).pdf" }})
+
+<table>
+<tr>
+    <th width="10%">Time</th>
+    <th width="5%">Duration</th>
+    <th width="60%">Activity</th>
+    <th>Notes</th>
+</tr>
+<tr>
+<td>14:30 - 15:45</td>
+<td></td>
+<td colspan="2"><strong>Session I: Opening, Keynote and Human Factors in Modeling Language Design</strong></td>
+</tr>
+<tr>
+<td>14:30 - 14:40</td>
+<td>10 min</td>
+<td>Welcome & Opening Remarks</td>
+<td>Introduction by the HuFaMo organizers </td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"><strong>Human Factors in Modeling Language Design Chair: Silvia Abrahao</strong></td>
+</tr>
+<tr>
+<td>14:40 - 15:10</td>
+<td>30 min</td>
+<td>Keynote speech by Michel Chaudron (TBD)</td>
+<td></td>
+</tr>
+<tr>
+<td>15:10 - 15:30</td>
+<td>20 min</td>
+<td>From Complex Ecosystems to Understandable Models – Evaluating a Domain-Specific Modeling Language for Digital Ecosystem Governance</td>
+<td><strong>Full paper:</strong> 15 min presentation + 5 min Q&A</td>
+</tr>
+<tr>	
+<td>15:30 - 15:45</td>
+<td>15 min</td>
+<td><strong>Discussion:</strong> When Is a Modeling Language Truly Understandable?</td>
+<td><strong>Paper driven discussion.</strong> Central question: When modeling a complex domain from multiple perspectives, should we prioritise semantic precision and consistency, or flexibility and ease of learning, and how can we avoid forcing users to choose between them?</td>
+</tr>
+<tr>
+<td>15:45 - 16:15</td>
+<td>30 min</td>
+<td>Coffee Break</td>
+<td>Networking</td>
+</tr>
+<tr>
+<td>16:15 -17:30</td>
+<td></td>
+<td colspan="2"><strong>Session II: Human–Tool Interaction in Modeling</strong></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"><strong>Chair: Shalini Chakraborty</strong></td>
+</tr>
+<tr>
+<td>16:15 - 16:35</td>
+<td>20 min</td>
+<td>When Layout Matters: Characterizing Layout-Sensitive Notations and Their Cognitive Trade-offs</td>
+<td><strong>Full paper:</strong> 15 min presentation + 5 min Q&A</td>
+</tr>
+<tr>
+<td>16:35 - 16:50</td>
+<td>15 min</td>
+<td>Do Not Disturb — Proposing Approaches Towards Motivated Human-in-the-Loop for Less Disruptive Cross-Domain Interactive Repair</td>
+<td><strong>Short/Vision paper:</strong> 10 min presentation + 5 min Q&A</td>
+</tr>
+<tr>
+<td>16:50 - 17:00</td>
+<td>10 min</td>
+<td><strong>Discussion:</strong> How Much Should the Tool Decide for Us?</td>
+<td><strong>Paper-driven discussion. Central question: Where should we draw the boundary between automatic tool behaviour and explicit human involvement when a modeling action has consequences the user may not fully see?</strong></td>
+</tr>
+<tr>
+<td>17:00 - 17:25</td>
+<td>25 min</td>
+<td><strong>Panel: Human Factors in Modeling in the AI Era: Challenges and Research Directions.</strong> <br/> <strong>Panelists:</strong> Tim C. Lethbridge, Vasco Amaral, and Pedro J. Molina</td>
+<td>The final panel synthesizes and broadens the conversation from previous sessions.</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"><strong>Chair: Miguel Goulão</strong></td>
+</tr>
+<tr>
+<td>17:25 - 17:30</td>
+<td>5 min</td>
+<td>Workshop Wrap-up</td>
+<td>Workshop closing</td>
+</tr>
+</table>
+
+
 
 ## Overview
 
