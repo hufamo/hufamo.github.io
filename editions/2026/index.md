@@ -37,7 +37,7 @@ HuFaMo 2026 is the 8th edition of this [workshop series](https://hufamo.github.i
 <tr>
 <td>14:40 - 15:10</td>
 <td>30 min</td>
-<td>**Keynote speech by Michel Chaudron:** “From Creation to Comprehension: The Future of Models in the Age of GenAI" </td>
+<td>## Keynote speech by Michel Chaudron: “From Creation to Comprehension: The Future of Models in the Age of GenAI" </td>
 <td>Professor Michel R. V. Chaudron is a Full Professor of the Software Engineering group at Eindhoven University of Technology (TU/e), within the Department of Mathematics and Computer Science. With over two decades of academic experience, Professor Chaudron has previously held positions at the University of Gothenburg/Chalmers University of Technology (Sweden), Leiden University and at CMG (now CGI) as a professional software engineer.
 His research interests encompass software architecture, software design, software modelling, and empirical studies in industrial software engineering practice (especially around software modeling and tools). Recently, he has focused on the architecting digital twins and on integrating AI in software development processes. He also works towards increasing inclusiveness of academics from the ‘Global South’ in the software engineering community.</td>
 </tr>
